@@ -7,4 +7,6 @@ the code uses a Scanner object to read input from the user and prompts the user 
 The user’s age is then checked to see if they are eligible to vote (over 18 years old). If the user is eligible to vote, 
 the code displays a list of candidates and prompts the user to select a candidate to vote for. 
 The user’s selection is stored in the variable “userSelection”.
+
+
 <img width="505" alt="yyyyyyyyyyyyyy" src="https://github.com/user-attachments/assets/5a212bd7-d224-427b-82c4-ed720a5c03aa" />
