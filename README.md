@@ -1,4 +1,4 @@
-The below code is a basic implementation of an online voting system using the Java programming language. 
+The above code is a basic implementation of an online voting system using the Java programming language. 
 The code defines a single class called “OnlineVotingSystem” and contains a single method called “main” 
 which is the entry point of the program.At the beginning of the main method, the code creates 
 two integer variables called “candidate1Votes” and “candidate2Votes” and initializes them to zero. 
